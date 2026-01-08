@@ -1,6 +1,6 @@
 # TEM-Sample-Holder-Fabrication
 ## Overview
-This repository reports the fabrication and characterization of a **Transmission Electron Microscope (TEM) sample holder** performed as part of the course Materials Science & Engineering 121L at UCLA.
+This repository reports the fabrication and characterization of a **Transmission Electron Microscope (TEM) sample holder** performed as part of the course Materials Science & Engineering 121L at UCLA. The submitted report is included in this repository. 
 
 The project includes the following fabrication techqniues:
 - LPCVD silicon nitride deposition
