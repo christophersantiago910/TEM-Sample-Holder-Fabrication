@@ -24,3 +24,10 @@ The project includes the following fabrication techqniues:
 - **Percent yield:** ranged from ~94% to 132%, indicating over-etching and process non-uniformity  
 - **Nitride thickness:** ~105 nm determined from XRR fringe spacing  
 - Identified sources of error: contamination, mask print quality, extended etch time 
+
+## Pictures
+![Figure 1](pictures/IMG_27619.jpg)
+**Figure 1.** 
+
+![Figure 2](pictures/IMG_27629.jpg)
+**Figure 2.**
